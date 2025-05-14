@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently a junior studying cognitive science and data science @UC San Diegogogo 🌊🏄🌴
-- ⚡  I'm exicited about the brain and data
 - 👯 Catch me in the mountains or at the gym

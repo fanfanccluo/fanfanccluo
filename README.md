@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently a junior studying cognitive science and data science @UC San Diegogogo 🌊🏄🌴
+- 🌱 I’m currently a senior studying cognitive science and data science @UC San Diegogogo 🌊🏄🌴
 

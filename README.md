@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently a senior studying cognitive science and data science @UC San Diegogogo 🌊🏄🌴
+- 🌱 I’m currently a Postgraduate Associate at Cho Lab in Yale University
+- 🌱 Previously I studied cognitive science and data science @UC San Diego 🌊🏄🌴
 
